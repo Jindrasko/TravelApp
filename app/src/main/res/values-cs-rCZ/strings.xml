@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="back">Zpět</string>
+    <string name="place_detail">Detail místa</string>
+    <string name="no_interned_connection">Chybí připojení k internetu</string>
+    <string name="list_failed">Seznam se nepodařilo načíst</string>
+    <string name="detail_failed">Detail se nepodařilo načíst</string>
+    <string name="missing_location_perm">Chybí oprávnění k poloze</string>
+    <string name="save">Uložit</string>
+    <string name="collect">Sebrat</string>
+    <string name="collected">Sebráno</string>
+    <string name="track">Sledovat</string>
+    <string name="tracking_screen">Obrazovka sledování</string>
+    <string name="filters">Filtry</string>
+    <string name="radius">Rádius</string>
+    <string name="limit">Limit</string>
+    <string name="intro1T">Vítej v Travel Applikaci</string>
+    <string name="intro1D">Tato aplikace vám pomůže najít zajímavá místa ve vaší oblasti</string>
+    <string name="intro2T">Oprávnění k poloze</string>
+    <string name="intro2D">Potřebujeme, abyste udělili oprávnění k poloze</string>
+    <string name="intro3T">Oprávnění k fotoaparátu</string>
+    <string name="intro3D">Potřebujeme, abyste udělili povolení ke kameře. Budete fotit místa, která jste navštívili</string>
+    <string name="intro4T">To je vše</string>
+    <string name="intro4D">Užijte si používání této aplikace</string>
+</resources>
